@@ -37,6 +37,7 @@ Prompts to try next, in AI Studio or with your coding assistant:
 1. "Let me add my own steps, edit them and drag them into a different order."
 2. "Add up the typical timelines into a total and show it as a simple timeline."
 3. "Add a notes box under each step for what the town told me on the phone, and include the notes in the printout."
+4. "When I pick a language in the summary card, translate the approvals checklist and its printout too. Keep town office names and links as they are."
 
 ## Submit
 
