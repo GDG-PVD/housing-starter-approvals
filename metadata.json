@@ -1,0 +1,8 @@
+{
+  "name": "Site Explorer: Challenge 2 starter",
+  "description": "Site Explorer with the Challenge 2 tab built in: What does it take to get approved? For Rhode Island housing practitioners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
